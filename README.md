@@ -1,5 +1,7 @@
 # H1B-Sponsorship-Tracker-Web-APP
-## APAN 5400 Final Term Project
+APAN 5400 Managing Data Final Term Project
+Advised by: Darshan Desai, Ph.D
+Group 3
 
 ### Data Source
 United States Department of Labor (DOL) website - http://www.foreignlaborcert.doleta.gov/performancedata.cfm#dis
@@ -27,3 +29,6 @@ Build a search bar for inputs
 Inputs -> job title, location, company
 Add filters to further shrink the target roles
 Filters -> case status, time frame, pay, H-1B dependent, full time
+
+#### Screenshot of the Application:
+![Interface](static/Interface-Screenshot.png)
