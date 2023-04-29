@@ -1,7 +1,6 @@
 # H1B-Sponsorship-Tracker-Web-APP  
 APAN 5400 Managing Data Final Term Project  
 Advised by: Prof. Darshan Desai 
-Group 3  
 
 ### Data Source
 United States Department of Labor (DOL) website - http://www.foreignlaborcert.doleta.gov/performancedata.cfm#dis
