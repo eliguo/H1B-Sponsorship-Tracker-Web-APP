@@ -1,5 +1,5 @@
 # H1B-Sponsorship-Tracker-Web-APP  
-APAN 5400 Managing Data Final Term Project  
+APAN 5400 Managing Data - Final Term Project  
 Advised by: Prof. Darshan Desai 
 
 ### Data Source
